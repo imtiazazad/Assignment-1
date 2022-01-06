@@ -60,12 +60,12 @@ body{
     background-color: rgb(205, 188, 207);
 }
 .background{
-    background-image: url(exp-bg3.jpg);
+    background-image: url(images/exp-bg3.jpg);
     background-position: left;
     background-repeat: no-repeat;
 }
 #background-position{
-    background-image: url(dream-bg5.jpg);
+    background-image: url(images/dream-bg5.jpg);
     background-position: right;
 }
 .about{    
